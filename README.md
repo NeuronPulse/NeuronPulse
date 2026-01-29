@@ -14,9 +14,9 @@
 
   ![Python](https://img.shields.io/badge/Python-3.12.5+-blue?style=flat-square&logo=python)
   
-- [Jvavcratch](https://github.com/Jvavcratch) - 项目简介（一句话描述核心功能）
+- [Jvavcratch](https://github.com/Jvavcratch) - 把**类 Javascript **代码编译为 Scratch3.0 项目
 
-  ![Node.js](https://img.shields.io/badge/Node.js-v22.18.0-339933?style=flat-square&logo=node.js&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-v22.18.0-339933?style=flat-square&logo=node.js&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)![Scratch](https://img.shields.io/badge/Scratch-FF4791?style=flat-square&logo=scratch&logoColor=white)
 
 - [ChatPlus](https://github.com/NeuronPulse/ChatPlus-Server) - 一个带有插件系统的通用聊天服务器
 
