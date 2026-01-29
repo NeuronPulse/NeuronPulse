@@ -14,7 +14,7 @@
 
   ![Python](https://img.shields.io/badge/Python-3.12.5+-blue?style=flat-square&logo=python)
   
-- [Jvavcratch](https://github.com/Jvavcratch) - 把**类 Javascript **代码编译为 Scratch3.0 项目
+- [Jvavscratch](https://github.com/Jvavscratch) - 把**类Javascript**代码编译为 Scratch3.0 项目
 
   ![Node.js](https://img.shields.io/badge/Node.js-v22.18.0-339933?style=flat-square&logo=node.js&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)![Scratch](https://img.shields.io/badge/Scratch-FF4791?style=flat-square&logo=scratch&logoColor=white)
 
