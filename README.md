@@ -19,4 +19,4 @@
 - GitHub: [@NeuronPulse](https://github.com/NeuronPulse)
 - Email: 2913335827@qq.com / NeuronPulse64@gmail.com
 - 博客/个人网站: N/A
--   <img src="https://stats.justsong.cn/api/github?username=NeuronPulse&theme=onedark" width="25%" alt="GitHub 综合统计" />
+<img src="https://stats.justsong.cn/api/github?username=NeuronPulse&theme=onedark" width="50%" alt="GitHub 综合统计" />
