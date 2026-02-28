@@ -1,3 +1,14 @@
+<blockquote>
+  <kbd style="display: block; padding: 30px 25px; font-family: 'Georgia', 'Times New Roman', serif; background: #f8f9fa; border-radius: 8px; border: 1px solid #e1e4e8;">
+    <code style="font-size: 14px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #444; display: block; margin-bottom: 20px;">NeuronPulse - GitHub                            _ □ ×</code>
+
+        Self do, self have.
+        Rest breeds rust.
+        Rivers need a spring.
+        Quarrels of lovers but renew their love.
+  </kbd>
+</blockquote>
+
 # NeuronPulse's GitHub Profile
 ### ***喵呜~***你发现了一只住在GitHub上的猫猫捏~✨
 #### 这里记录了猫猫的开源项目、技术探索和代码实践 🌟
