@@ -65,19 +65,9 @@ Hey there! You just stumbled upon a cat who accidentally learned how to git comm
 
 ---
 
-<script src="https://giscus.app/client.js"
-        data-repo="NeuronPulse/NeuronPulse"
-        data-repo-id="R_kgDORD2cfA"
-        data-category="General"
-        data-category-id="DIC_kwDORD2cfM4DAFRi"
-        data-mapping="pathname"
-        data-strict="1"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="preferred_color_scheme"
-        data-lang="en"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-</script>
+<iframe src="https://giscus.app/client.html?repo=NeuronPulse%2FNeuronPulse&repo-id=R_kgDORD2cfA&category=General&category-id=DIC_kwDORD2cfM4DAFRi&mapping=pathname&strict=1&reactions-enabled=1&emit-metadata=0&input-position=top&theme=preferred_color_scheme&lang=en"
+        allow="microphone"
+        style="width: 100%; height: 500px; border: none;"
+        loading="lazy"
+        referrerpolicy="strict-origin-when-cross-origin">
+</iframe>
