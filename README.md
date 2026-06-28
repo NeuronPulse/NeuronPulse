@@ -36,7 +36,7 @@ Hey there! You just stumbled upon a cat who accidentally learned how to git comm
     *   *What it does:* Thermodynamic Reservoir Computing Engine — AI inference using CPU heat physics. No GPU, no ML frameworks.
     *   *Cat translation:* Making your CPU sweat to think for you. 🔥
 
-    ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)![Python](https://img.shields.io/badge/Python-3.12.5+-blue?style=flat-square&logo=python)
+    ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)
 
 ---
 
