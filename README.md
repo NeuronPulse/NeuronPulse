@@ -65,9 +65,4 @@ Hey there! You just stumbled upon a cat who accidentally learned how to git comm
 
 ---
 
-<iframe src="https://giscus.app/client.html?repo=NeuronPulse%2FNeuronPulse&repo-id=R_kgDORD2cfA&category=General&category-id=DIC_kwDORD2cfM4DAFRi&mapping=pathname&strict=1&reactions-enabled=1&emit-metadata=0&input-position=top&theme=preferred_color_scheme&lang=en"
-        allow="microphone"
-        style="width: 100%; height: 500px; border: none;"
-        loading="lazy"
-        referrerpolicy="strict-origin-when-cross-origin">
-</iframe>
+[![💬 Leave a comment](https://img.shields.io/badge/💬_Leave_a_comment-2ea44f?style=for-the-badge)](https://neuronpulse.github.io/NeuronPulse/)
