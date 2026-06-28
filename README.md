@@ -61,6 +61,6 @@ Hey there! You just stumbled upon a cat who accidentally learned how to git comm
 *   **GitHub:** [@NeuronPulse](https://github.com)
 *   **Email:** NeuronPulse64@gmail.com / 2913335827@qq.com
 
-*(Please do not `ctrl+z` my naps.)*
+*(Please do not `ctrl+c` my naps.)*
 
 ---
