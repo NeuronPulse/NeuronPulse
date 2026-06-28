@@ -64,3 +64,20 @@ Hey there! You just stumbled upon a cat who accidentally learned how to git comm
 *(Please do not `ctrl+c` my naps.)*
 
 ---
+
+<script src="https://giscus.app/client.js"
+        data-repo="NeuronPulse/NeuronPulse"
+        data-repo-id="R_kgDORD2cfA"
+        data-category="General"
+        data-category-id="DIC_kwDORD2cfM4DAFRi"
+        data-mapping="pathname"
+        data-strict="1"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
