@@ -32,11 +32,15 @@ Hey there! You just stumbled upon a cat who accidentally learned how to git comm
 
     ![Node.js](https://img.shields.io/badge/Node.js-v22.18.0-339933?style=flat-square&logo=node.js&logoColor=white)
 
+*   **[TRCE](https://github.com/NeuronPulse/TRCE)** (Rust / Python)
+    *   *What it does:* Thermodynamic Reservoir Computing Engine — AI inference using CPU heat physics. No GPU, no ML frameworks.
+    *   *Cat translation:* Making your CPU sweat to think for you. 🔥
+
+    ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)![Python](https://img.shields.io/badge/Python-3.12.5+-blue?style=flat-square&logo=python)
+
 ---
 
 ### 🛠️ Tech Stack (Things I like to bite)
-
-`Python` `Node.js` `JavaScript` `PostgreSQL` `C++` `Rust` `TurboWarp` `Git`
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.12.5+-blue?style=flat-square&logo=python)
@@ -59,6 +63,3 @@ Hey there! You just stumbled upon a cat who accidentally learned how to git comm
 *(Please do not `ctrl+z` my naps.)*
 
 ---
-
-## 📟 猫猫的状态
-<img src="https://stats.justsong.cn/api/github?username=NeuronPulse&theme=onedark" width="50%" alt="GitHub 综合统计" />
