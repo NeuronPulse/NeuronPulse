@@ -51,6 +51,7 @@ Hey there! You just stumbled upon a cat who accidentally learned how to git comm
 ![Scratch](https://img.shields.io/badge/Scratch-FF4791?style=flat-square&logo=scratch&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![VitePress](https://img.shields.io/badge/VitePress-646CFF?style=flat-square&logo=vitepress&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
 ![TurboWarp](https://img.shields.io/badge/TurboWarp-1E88E5?style=flat-square&logo=turbowarp&logoColor=white)
 
 ---
