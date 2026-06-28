@@ -5,9 +5,9 @@
 
 Hey there! You just stumbled upon a cat who accidentally learned how to git commit. I code with my paws and debug with my claws. 🐾
 <p align="left">
-  猫猫的主页被访问
-  <img src="https://count.getloli.com/@NeuronPulse?name=NeuronPulse&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="www计数器坏掉了喵" />
-  次啦喵
+  You are the
+  <img src="https://count.getloli.com/@NeuronPulse?name=NeuronPulse&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="counter" />
+  th hooman to pet me. 🐾
 </p>
 
 ---
