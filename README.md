@@ -1,3 +1,7 @@
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
+<tr>
+<td width="65%" style="border: none; padding: 0; vertical-align: top;">
+
 Compiler & LLVM tinkerer who thinks CPU heat is a valid compute resource. Building things that shouldn't exist — like compiling LLVM IR into Scratch blocks. Tried Rust once (okay, thrice), got bullied by the borrow checker, now I vibe code and let the compiler figure it out. 404 Brain Not Found, but the code still runs.
 
 ### Todos
@@ -8,6 +12,15 @@ Compiler & LLVM tinkerer who thinks CPU heat is a valid compute resource. Buildi
 - [ ] Rewriting TurboWarp's Scratch-VM in Rust? wild. still just in my head for now.
 - [x] scratch.cpp — pretty much done, compiles Scratch to C++. gonna make my stories260k fly. (don't ask why it's not on GitHub)
 - [x] Upload mysterious WeChat bot code to repo hello-world-2023. will optimize it someday if fate allows.
+
+</td>
+<td width="35%" style="border: none; padding: 0; vertical-align: top; text-align: center;">
+
+![Metrics](metrics.svg)
+
+</td>
+</tr>
+</table>
 
 ### Myyyyyy Stack
 
