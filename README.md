@@ -1,4 +1,4 @@
-<img align="right" src="metrics.svg" alt="Metrics" width="38%" />
+<img align="right" src="metrics.svg" alt="Metrics" width="40%" />
 
 ### TL;DR
 > Compiler & LLVM tinkerer who thinks CPU heat is a valid compute resource. Building things that shouldn't exist — like compiling LLVM IR into Scratch blocks. Tried Rust once (okay, thrice), got bullied by the borrow checker, now I vibe code and let the compiler figure it out. 404 Brain Not Found, but the code still runs.
