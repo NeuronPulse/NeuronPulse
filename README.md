@@ -1,6 +1,7 @@
-<img align="right" src="metrics.svg" alt="Metrics" width="40%" />
+<img align="right" src="metrics.svg" alt="Metrics" width="38%" />
 
-Compiler & LLVM tinkerer who thinks CPU heat is a valid compute resource. Building things that shouldn't exist — like compiling LLVM IR into Scratch blocks. Tried Rust once (okay, thrice), got bullied by the borrow checker, now I vibe code and let the compiler figure it out. 404 Brain Not Found, but the code still runs.
+### TL;DR
+> Compiler & LLVM tinkerer who thinks CPU heat is a valid compute resource. Building things that shouldn't exist — like compiling LLVM IR into Scratch blocks. Tried Rust once (okay, thrice), got bullied by the borrow checker, now I vibe code and let the compiler figure it out. 404 Brain Not Found, but the code still runs.
 
 ### Todos
 - [ ] compiling LLVM to Scratch is wild. and in Rust?? bruh.
@@ -16,11 +17,11 @@ Compiler & LLVM tinkerer who thinks CPU heat is a valid compute resource. Buildi
 ###### A bite still counts 💢 
 
 *Core Languages & Runtime*
-![Python](https://img.shields.io/badge/Python-3.12.5+-blue?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-v22.18.0-339933?style=flat-square&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -64,6 +65,7 @@ Compiler & LLVM tinkerer who thinks CPU heat is a valid compute resource. Buildi
 ### Wake Me Up at 3 AM
 
 *GitHub: [@NeuronPulse](https://github.com/NeuronPulse)*
+
 *Email: NeuronPulse64@gmail.com / 2913335827@qq.com*
 
 ###### *(dont `ctrl+ccccccc` my naps plz.🙏)*
@@ -73,5 +75,5 @@ Compiler & LLVM tinkerer who thinks CPU heat is a valid compute resource. Buildi
 <p align="center">
   You are visitor #
   <img src="https://count.getloli.com/@NeuronPulse?name=NeuronPulse&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="counter" style="width: 200px; vertical-align: middle; display: inline-block;" />
-  to pet me. 🐾
+  to pet me.
 </p>
